@@ -1,0 +1,7 @@
+Instructions on how to run the program
+
+1. MUST have microsoft office 13 or above installed in your windows pc
+2. MUST have python 3 or above installed in your windows pc
+3. execute the ms_office.py file in command prompt
+
+$$$ thats all, et al just enjoy
